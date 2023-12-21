@@ -137,3 +137,5 @@ CATKIN_IGNORE
 /.catkin_tools
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,ros,macos,c++
+
+/.vscode
