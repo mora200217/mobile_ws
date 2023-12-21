@@ -5,7 +5,5 @@ void main(int argc, char** argv){
 
     ros::NodeHandle nh; 
 
-    
-
     return 0; 
-}
+}   
